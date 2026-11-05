@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+mlartifacts/
+venv/
+mlflow.db
